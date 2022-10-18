@@ -1,0 +1,34 @@
+Description:  Comfartable and cheap Footwear 
+Trader: Serdil Anil Unlu
+Situation: CANCELLED ORDER
+
+Id: QWQWQWQQWER12345
+Name: Serdil Anil Unlu
+Category: Clock >> Woman Clock
+Price: 800
+Discounted: 450
+Description: Gold and silver plated 2-year warranty watches.
+Trader: ClockWoman
+Situation: NOT CHECKED 
+
+Id: ABCDEFGH2GTFR123
+Name: SerdilAnil
+Category: Footwear >> Man FootWear
+Price: 10000
+Discounted: 200
+Description:  Comfartable and cheap Footwear 
+Trader: Serdil Anil Unlu
+Situation: CANCELLED ORDER
+
+
+
+Id: ACUYHTRBN12345RU
+Name: Lionel Messi
+Category: Sport Shoes
+Price: 1000
+Discounted: 530
+Description: Dirt-resistant gear crampons
+Trader: Shoes monster
+Situation: NOT CHECKED 
+
+

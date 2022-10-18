@@ -1,0 +1,40 @@
+n
+Reflexive: Yes, all elements are present.
+Symmetric: No,because (a,b) is found whereas (b,a) is not found.
+Antisymmetric: Yes, because (a,b) is found whereas (b,a) is not found and other values provide this rule.
+Transitive: Yes, all elements providing this rule.
+n
+Reflexive: No,because (e,e) is not found.
+Symmetric: Yes, because (d,d) is found where (d,d) is found and other values provide this rule.
+Antisymmetric: No, because (a,b) is found whereas (b,a) is found.
+Transitive: Yes, all elements providing this rule.
+n
+Reflexive: Yes, all elements are present.
+Symmetric: Yes, because (e,e) is found where (e,e) is found and other values provide this rule.
+Antisymmetric: Yes, because (e,e) is found whereas (e,e) is not found and other values provide this rule.
+Transitive: Yes, all elements providing this rule.
+n
+Reflexive: No,because (2,2) is not found.
+Symmetric: Yes, because (2,1) is found where (1,2) is found and other values provide this rule.
+Antisymmetric: No, because (1,2) is found whereas (2,1) is found.
+Transitive: No,because (2,2) is not found where (2,1) and (1,2) are found.
+n
+Reflexive: No,because (3,3) is not found.
+Symmetric: No,because (3,4) is found whereas (4,3) is not found.
+Antisymmetric: No, because (1,2) is found whereas (2,1) is found.
+Transitive: No,because (3,1) is not found where (3,4) and (4,1) are found.
+n
+Reflexive: No,because (1,1) is not found.
+Symmetric: No,because (2,1) is found whereas (1,2) is not found.
+Antisymmetric: Yes, because (2,1) is found whereas (1,2) is not found and other values provide this rule.
+Transitive: Yes, all elements providing this rule.
+n
+Reflexive: Yes, all elements are present.
+Symmetric: No,because (1,2) is found whereas (2,1) is not found.
+Antisymmetric: Yes, because (1,2) is found whereas (2,1) is not found and other values provide this rule.
+Transitive: Yes, all elements providing this rule.
+n
+Reflexive: Yes, all elements are present.
+Symmetric: Yes, because (4,4) is found where (4,4) is found and other values provide this rule.
+Antisymmetric: No, because (1,2) is found whereas (2,1) is found.
+Transitive: No,because (2,4) is not found where (2,1) and (1,4) are found.

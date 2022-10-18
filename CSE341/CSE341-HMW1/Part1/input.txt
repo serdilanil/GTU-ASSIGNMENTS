@@ -1,0 +1,11 @@
+525
+abcd
+1.0
+(asasfsa)
+(1424234)
+(deffun)
+;;helloworld.g++
+(if(equal*0)
+(list 1 2 123)
+(liste 1 2 3)
+

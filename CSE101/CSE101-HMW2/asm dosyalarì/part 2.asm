@@ -1,0 +1,11 @@
+load R0,00000001b
+load R1,00000011b
+load R2,00000111b
+load R3,00000010b
+load R8,0xFF
+xor R0,R0,R8
+xor R1,R1,R8
+xor R2,R2,R8
+xor R3,R3,R8
+load R9,0x01
+addi R3,R3,R9
